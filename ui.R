@@ -11,7 +11,7 @@ shinyUI(
     
     # Give the page a title
     titlePanel("Metra"),
-    plotOutput("plot") ,
+    plotOutput("plot") , 
     hr(), 
     
     fluidRow(
